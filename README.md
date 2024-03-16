@@ -3,6 +3,7 @@ You can check out my app here; https://marwashahid.github.io/WeatherApp/
 <h3 align="center">A passionate Computer Science Student</h3>
 
 - 📫 How to reach me **marvashahid09@gmail.com**
+- <a href="https://www.linkedin.com/in/marwashahid">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
